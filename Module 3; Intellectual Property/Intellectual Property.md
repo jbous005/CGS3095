@@ -51,11 +51,15 @@ Duration: **Awarded 20 years from date of filing**
 
 * Similar requirements to non-provisional patents
 * Allows for early registration of a product, gives right to use "Patent Pending"
-* Patent application must be completed within a year or else the inventor losses benefits of provisional patent
+* Patent application must be completed within a year or else the inventor losses benefits of provisional patent.
 
-#### How to patent an item.
+#### How to apply for a patent.
 
-Once all [parameters](#) have been met
+Once all [parameters](#patents-1) have been met, someone looking to apply for a patent first needs to check if their idea/creation is already patented in some capacity.
+
+Persons looking to apply for a patent can look for similar ideas/creations in https://patft.uspto.gov. If there is a similar patent found, you can either gut the idea, dodge the existing patent and focus on differentiating you invention, or fight for your right to use the patent anyway, noting the unique aspects of your invention.
+
+After this step, you can file for a patent at https://uspto.gov/help/patent-help.
 
 ### why are organizations so concerned about protecting it
 
