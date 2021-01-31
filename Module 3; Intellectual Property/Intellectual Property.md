@@ -53,6 +53,14 @@ Duration: **Awarded 20 years from date of filing**
 * Allows for early registration of a product, gives right to use "Patent Pending"
 * Patent application must be completed within a year or else the inventor losses benefits of provisional patent.
 
+#### On Software Patents
+
+Not all software-related innovation can benefit from patent protection.
+
+Copyright laws protects the literal expression of programs, **but not their ideas**.
+
+Not commonly sought after due to cost and lack of protection/reward in implementing it.
+
 #### How to apply for a patent.
 
 Once all [parameters](#patents-1) have been met, someone looking to apply for a patent first needs to check if their idea/creation is already patented in some capacity.
@@ -91,9 +99,31 @@ After this step, you can file for a patent at https://uspto.gov/help/patent-help
 * Must hold **utility** in industry
 * Techniques used for invention must be replicable to capable individuals
 
+#### Leahy-Smith America Invents Act (2011)
 
+Changes patent system to a first-inventor-to-file system.
+
+Weighs the novelty of an invention and whether it can be patented.
 
 ### trade secrets
+
+Information, including a formula, pattern, compilation, program, device, method, technique, or process that derives independent economic value. It does so by "remaining unknown" or closed sourced.
+
+E.g.
+* KFC's chicken recipe
+* Coco-Cola Formula
+* Google's search engine algorithm rankings.
+
+#### Criteria and Properties
+
+Business information that:
+* represents something of economic value
+* has required effort or cost to develop
+* has some degree of uniqueness or novelty
+* is generally unknown to the public
+* is kept confidential
+
+Patents require companies to publicly disclose inventive properties while trade secrets remain confidential in perpetuity.
 
 ## What is plagarism
 
