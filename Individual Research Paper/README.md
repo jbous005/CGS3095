@@ -2,7 +2,7 @@
 
 ## Sources
 
-* [Artificial intelligence and robotics](), Brady M., 1985
+* [Artificial intelligence and robotics](./Brady%20M.md), Brady M., 1985
 
 * The application of artificial intelligence, robotics and image processing to civil engineering, building engineering, architecture, urban design and urban planning, Delf University, 1993
 
