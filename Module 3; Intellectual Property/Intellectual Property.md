@@ -125,6 +125,11 @@ Business information that:
 
 Patents require companies to publicly disclose inventive properties while trade secrets remain confidential in perpetuity.
 
+* There is no time limit on the protection
+* no need to file an application to any entity for protection
+* Typically cannot be ruled invalid bu courts; laws vary greatly between countries.
+* the law does not prevent anyone from using the same idea through reverse engineering
+
 ## What is plagarism
 
 ### what can be done to combat it 
